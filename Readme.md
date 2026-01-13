@@ -2,3 +2,13 @@
 
 Чтобы программа работала корректно тыкните мышкой на рабочий стол после запуска
 
+
+
+## Установка
+``bash
+    git clone https://github.com/MrFaul-tests/snake-game.git
+    cd snake-game
+    pip install keyboard
+    sudo python3 main.py
+```
+
