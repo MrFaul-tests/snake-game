@@ -5,7 +5,6 @@
 
 
 ## Установка
-```bash`
-    git clone https://github.com/MrFaul-tests/snake-game.git
+```bashcgit clone https://github.com/MrFaul-tests/snake-game.git
 ```
 
