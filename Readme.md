@@ -7,5 +7,8 @@
 ## Установка
 ```bash
 git clone https://github.com/MrFaul-tests/snake-game.git
+cd snake-game
+pip3 install keyboard
+sudo python3 main.py
 ```
 
